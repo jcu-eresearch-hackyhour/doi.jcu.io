@@ -1,8 +1,9 @@
 :root {
-  --orange: hsl(10, 98%, 58%);
-  --tan: hsl(48, 100%, 98%);
-  --tan-translucent: hsla(48, 100%, 98%, .9);
-  --gray: hsl(0, 0%, 40%);
-  --light-gray: hsl(0, 0%, 70%);
-  --lighter-gray: hsl(0, 0%, 90%);
+    /* --orange: hsl(10, 98%, 58%); */
+    --orange: rgb(68, 204, 17);
+    --tan: hsl(48, 100%, 98%);
+    --tan-translucent: hsla(48, 100%, 98%, .9);
+    --gray: hsl(0, 0%, 40%);
+    --light-gray: hsl(0, 0%, 70%);
+    --lighter-gray: hsl(0, 0%, 90%);
 }

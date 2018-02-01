@@ -1,14 +1,14 @@
 doctype html
 html
   head
-    title WaffleJS 
+    title Collaborative DOI
     meta( charset='utf-8' )
     meta( name='viewport' content='initial-scale=1,user-scalable=no' )
-    meta( property='og:title' content='WaffleJS' )
-    meta( property='og:description' content='A fun night of tech, waffles, and karaoke.' )
+    meta( property='og:title' content='Collaborative DOI | CDOI' )
+    meta( property='og:description' content='A personal DOI to reward and cite your research collaborations.' )
     meta( property='og:type' content='website' )
     meta( property='og:image' content='https://wafflejs.com/images/#{require("generate-social-img!")}' )
-    meta( property='og:url' content='https://wafflejs.com' )
+    meta( property='og:url' content='https://doi.jcu.io' )
     base( href='/' )
   body( ng-app='wafflejs' ng-strict-di )
     header
@@ -16,19 +16,19 @@ html
         .row.between-xs
           .col-xs-12.col-sm-6.col-md-7
             h4.highlight
-              a( ui-sref='index({ day: null })' ) WaffleJS
-              a( href='https://twitter.com/wafflejs' )
+              a( ui-sref='index({ day: null })' ) Collaborative DOI
+              a( href='https://twitter.com/jcuhackyhour' )
                 include images/icons/twitter.svg
-              a( href='https://github.com/wafflejs/wafflejs.github.io/issues' )
+              a( href='https://github.com/jcu-eresearch-hackyhour/doi.jcu.io/issues' )
                 include images/icons/github.svg
-              a( href='http://slack.borojs.com' )
+              a( href='https://www.jcu.edu.au/eresearch/contact' )
                 include images/icons/slack.svg
           .col-xs-12.col-sm-6.end-sm.col-md-5.start-md
             ul.nav
               li I want to:
-              li: a.light-gray( ui-sref='speakers' ) Speak
-              li: a.light-gray( ui-sref='performers' ) Perform
-              li: a.light-gray( ui-sref='sponsorship' ) Sponsor
+              li: a.light-gray( ui-sref='speakers' ) Give recognition
+              li: a.light-gray( ui-sref='performers' ) Get recognition
+              li: a.light-gray( ui-sref='sponsorship' ) Learn more
 
     main( ui-view )
 
@@ -39,11 +39,11 @@ html
             .row
               .col-xs-7.start-xs.col-sm-12.center-sm
                 // Buy Waffle – $10
-                | Buy Doughnut – $10
+                | Get a DOI 
                 // Sold Out 😅
               .col-xs-5.end-xs.col-sm-12.center-sm
                 small
-                  | Ticket Included
+                  | Free Forever
                   // Join Waiting List
 
     //-- Twitter universal website tag code
