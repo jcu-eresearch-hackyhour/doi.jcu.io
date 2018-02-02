@@ -28,8 +28,11 @@
   #hero {
     > .container-fluid {
       margin-bottom: 3rem;
-      background: url('/images/hero-1.jpg') 50% 50%;
-      background-size: cover;
+      background-color: #fff;
+      background-image: url('/images/threestep.png');
+      background-size: 50%;
+      background-position: center;
+      background-repeat: no-repeat;
       height: 50vh;
       @media (--md-viewport) {
         height: 60vh;
