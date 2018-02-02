@@ -13,12 +13,10 @@
                  +----
 ](/images/doi-logo.svg)
 
-WaffleJS
+doi.jcu.io
 ========
 
-A fun night of tech, waffles, and karaoke.
-
-All proceeds go to charity.
+Research project to create personal DOI to cite for collaborations to research.
 
 * * *
 
