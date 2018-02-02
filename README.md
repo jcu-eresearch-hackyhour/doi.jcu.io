@@ -13,21 +13,17 @@
                  +----
 ](/images/wmo.png)
 
-WaffleJS
+doi.jcu.io
 ========
 
-A fun night of tech, waffles, and karaoke.
+A research project to make personal DOI's to use for contributions to research.
 
-All proceeds go to charity.
-
-* * *
+`master`  is the old upstream and `doi.jcu.io` is our changes to it.
 
 About
 -----
-WaffleJS is a monthly meetup with waffles and a side of JavaScript.
 
-We host 10-minute talks about everything from watercolor painting to
-robot lobbyists, interspersed with fun!
+DESCRIPTION TEXT GOES HERE
 
 Running Locally
 ------------
