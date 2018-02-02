@@ -11,7 +11,7 @@
          --//+//::--:::://+//--
              --//+//++///--
                  +----
-](/images/wmo.png)
+](/images/doi-logo.svg)
 
 doi.jcu.io
 ========
