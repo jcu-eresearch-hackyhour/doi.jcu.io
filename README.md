@@ -16,16 +16,19 @@
 doi.jcu.io
 ========
 
-Research project to create personal DOI to cite for collaborations to research.
+Turn acknowledgements into citations.  Reward yourself and others for contributing to research.
 
 * * *
 
 About
 -----
-WaffleJS is a monthly meetup with waffles and a side of JavaScript.
+cDoi is a research project to create personal DOI to cite for collaborations to research.
 
-We host 10-minute talks about everything from watercolor painting to
-robot lobbyists, interspersed with fun!
+We are trying to reward all contributions to research; like helping code for a day, being a lab tech or suffering in the field.
+
+Acknowledgements are nice but nobody reads them or gets promotions or recognition from the research community.
+
+
 
 Running Locally
 ------------
@@ -35,25 +38,4 @@ Running Locally
 
 Contributing
 ------------
-If you're looking for the schedule or other info, check out [calendar.yml](models/calendar.yml).
-
-Sponsors
---------
-Interested in [being a sponsor](https://wafflejs.com/sponsorship)?
-
-Also
-----
-All participants are expected to follow the [JSConf Code of Conduct][1].
-
-Organized by [Visnu][@visnup], [Billy][@billyroh],
-[Emily][@nexxylove], [Kelly][@kng], [Max][@chromakode], and [Katrina][@kuychaco]. Inspired by [BrooklynJS][2].
-
-[1]: http://jsconf.com/codeofconduct.html
-[2]: http://brooklynjs.com
-
-[@visnup]: https://twitter.com/visnup
-[@billyroh]: https://twitter.com/billyroh
-[@nexxylove]: https://twitter.com/nexxylove
-[@kng]: https://twitter.com/kng
-[@chromakode]: https://twitter.com/chromakode
-[@kuychaco]: https://twitter.com/kuychaco
+If you're looking to get involved, get in touch!
